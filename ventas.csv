@@ -1,0 +1,600 @@
+2023-10-13,Abarrotes        ,Boquitas       ,Churritos           ,4,6,Siria Hernandez      
+2023-09-01,Abarrotes        ,Margarinas     ,Margarina Francesa  ,3,5,Fernando Campos      
+2023-07-17,Carnes           ,Aves           ,Pechuga de Pollo    ,8,18,Gerson Ramirez       
+2023-12-12,Carnes           ,Aves           ,Alitas de Pollo     ,6,14,Douglas Flores       
+2023-10-15,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,4,13,Christian Gonzalez   
+2023-04-11,Bebidas          ,Café Soluble   ,Coscafé             ,6,18,Wilmer Araniba       
+2023-06-03,Abarrotes        ,Margarinas     ,Margarina Francesa  ,7,10,Christian Gonzalez   
+2023-12-25,Bebidas          ,Carbonatadas   ,Fanta               ,2,7,Erick Joya           
+2023-12-03,Carnes           ,Aves           ,Pechuga de Pollo    ,9,20,Gerson Ramirez       
+2023-01-21,Carnes           ,Carne de Res   ,Lomo Rollizo        ,3,20,Fernando Campos      
+2023-12-14,Abarrotes        ,Margarinas     ,Margarina Dietetica ,9,15,Christian Gonzalez   
+2023-10-23,Abarrotes        ,Aceites        ,Aceite Santa Clara  ,2,5,Gerson Ramirez       
+2023-05-27,Carnes           ,Aves           ,Alitas de Pollo     ,10,23,Siria Hernandez      
+2023-06-06,Carnes           ,Aves           ,Menudos de Pollo    ,3,5,Dennis Martinez      
+2023-04-23,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,5,10,Daniel Chavez        
+2023-11-02,Bebidas          ,Jugos          ,Jugo V8             ,5,8,Gerson Ramirez       
+2023-10-07,Bebidas          ,Carbonatadas   ,Sprite              ,5,17,Daniel Chavez        
+2023-11-23,Bebidas          ,Café Soluble   ,Café Musum          ,6,20,Gerson Ramirez       
+2023-04-24,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,9,23,Katya Peñate         
+2023-03-10,Abarrotes        ,Aceites        ,Aceite Mazolla      ,10,24,Josías Padilla       
+2023-04-09,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,2,5,Gerson Ramirez       
+2023-05-19,Carnes           ,Aves           ,Alitas de Pollo     ,3,7,Christian Gonzalez   
+2023-03-21,Abarrotes        ,Margarinas     ,Margarina Dietetica ,8,13,Nathaly Grande       
+2023-02-17,Bebidas          ,Café Soluble   ,Nescafé Listo       ,5,18,Guillermo Altamirano 
+2023-04-06,Bebidas          ,Carbonatadas   ,Pepsi               ,5,15,Wilmer Araniba       
+2023-05-10,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,4,16,Katya Peñate         
+2023-10-04,Bebidas          ,Jugos          ,Jugo Tampico        ,3,8,Nathaly Grande       
+2023-02-25,Abarrotes        ,Boquitas       ,Maní Japonés        ,5,9,Katherine Vasquez    
+2023-08-13,Bebidas          ,Carbonatadas   ,Fanta               ,3,10,Dustin Najarro       
+2023-01-10,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,2,6,Josías Padilla       
+2023-07-25,Carnes           ,Carne de Res   ,Lomo Rollizo        ,4,26,Nathaly Grande       
+2023-10-24,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,5,12,Katherine Vasquez    
+2023-07-16,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,10,39,José Monjarás        
+2023-09-13,Bebidas          ,Jugos          ,Jugo V8             ,4,6,Siria Hernandez      
+2023-11-28,Bebidas          ,Jugos          ,Jugo Naturas        ,2,3,Dennis Martinez      
+2023-05-20,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,5,20,Guillermo Altamirano 
+2023-09-17,Bebidas          ,Carbonatadas   ,Sprite              ,10,33,Elmer Martinez       
+2023-10-27,Abarrotes        ,Aceites        ,Aceite de Girasol   ,9,34,Christian Gonzalez   
+2023-01-22,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,3,8,Daniel Chavez        
+2023-09-04,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,9,23,Nathaly Grande       
+2023-08-07,Bebidas          ,Café Soluble   ,Coscafé             ,3,9,Erick Joya           
+2023-03-05,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,8,24,Luis Hernandez       
+2023-10-25,Carnes           ,Carne de Cerdo ,Lomo de Cerdo       ,9,32,Gerson Ramirez       
+2023-03-21,Carnes           ,Carne de Res   ,Puyazo              ,5,27,Josías Padilla       
+2023-08-12,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,5,12,Dustin Najarro       
+2023-04-08,Cuidado Personal ,Crema Dental   ,Pasta Oral-B        ,3,9,Guillermo Altamirano 
+2023-09-13,Bebidas          ,Carbonatadas   ,Fanta               ,6,20,Douglas Flores       
+2023-01-16,Carnes           ,Carne de Cerdo ,Lomo de Cerdo       ,5,18,Josías Padilla       
+2023-01-02,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,3,6,Siria Hernandez      
+2023-08-01,Bebidas          ,Café Soluble   ,Juan Valdés         ,8,76,Luis Turcios         
+2023-10-21,Abarrotes        ,Margarinas     ,Margarina Francesa  ,9,13,José Monjarás        
+2023-05-08,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,5,12,Guillermo Altamirano 
+2023-05-10,Bebidas          ,Café Soluble   ,Café Riko           ,4,11,Guillermo Altamirano 
+2023-06-04,Carnes           ,Carne de Res   ,Lomo Rollizo        ,2,13,Josías Padilla       
+2023-07-25,Abarrotes        ,Boquitas       ,Tortillitas         ,6,9,Erick Joya           
+2023-03-06,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,3,8,Guillermo Altamirano 
+2023-02-20,Carnes           ,Carne de Res   ,Posta Pacha         ,4,17,Wilmer Araniba       
+2023-02-15,Bebidas          ,Jugos          ,Jugo Del Valle      ,9,16,Wilmer Araniba       
+2023-05-01,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,10,39,José Monjarás        
+2023-07-22,Abarrotes        ,Azucares       ,Azucar Splenda      ,6,15,Christian Gonzalez   
+2023-02-23,Bebidas          ,Jugos          ,Jugo Salud          ,7,16,Wilmer Araniba       
+2023-02-22,Bebidas          ,Café Soluble   ,Coscafé             ,2,6,Dennis Martinez      
+2023-06-04,Abarrotes        ,Margarinas     ,Margarina Orisol    ,10,15,Nathaly Grande       
+2023-01-18,Bebidas          ,Carbonatadas   ,Seven Up            ,9,27,Elmer Martinez       
+2023-05-10,Carnes           ,Carne de Res   ,Posta Pacha         ,2,9,Dennis Martinez      
+2023-03-24,Carnes           ,Carne de Res   ,Puyazo              ,3,16,José Monjarás        
+2023-12-19,Bebidas          ,Café Soluble   ,Café Musum          ,8,26,Daniel Chavez        
+2023-10-22,Carnes           ,Aves           ,Menudos de Pollo    ,4,6,Luis Hernandez       
+2023-09-07,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,2,10,Katherine Vasquez    
+2023-06-23,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,6,30,Erick Joya           
+2023-10-20,Abarrotes        ,Boquitas       ,Yuquita             ,2,4,Erick Joya           
+2023-10-07,Abarrotes        ,Azucares       ,Azucar Blanca       ,10,11,Katherine Vasquez    
+2023-09-20,Abarrotes        ,Margarinas     ,Margarina Francesa  ,5,7,Erick Joya           
+2023-12-24,Abarrotes        ,Margarinas     ,Margarina Dietetica ,5,8,Nathaly Grande       
+2023-11-02,Carnes           ,Carne de Res   ,Angelina            ,2,12,Christian Gonzalez   
+2023-02-15,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,10,50,Katherine Vasquez    
+2023-06-01,Abarrotes        ,Boquitas       ,Churritos           ,10,15,Siria Hernandez      
+2023-01-01,Bebidas          ,Jugos          ,Jugo V8             ,2,3,Douglas Flores       
+2023-12-28,Bebidas          ,Jugos          ,Jugo Del Valle      ,6,11,Luis Turcios         
+2023-10-22,Carnes           ,Aves           ,Muslo de Pollo      ,2,4,Douglas Flores       
+2023-06-01,Abarrotes        ,Boquitas       ,Churritos           ,5,8,Wilmer Araniba       
+2023-09-24,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,3,13,Elmer Martinez       
+2023-02-09,Abarrotes        ,Boquitas       ,Churritos           ,8,12,Oscar Mejia          
+2023-12-26,Abarrotes        ,Boquitas       ,Churritos           ,10,15,Katherine Vasquez    
+2023-03-13,Bebidas          ,Café Soluble   ,Juan Valdés         ,9,86,Luis Turcios         
+2023-09-01,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,7,17,Daniel Chavez        
+2023-05-27,Bebidas          ,Café Soluble   ,Nescafé Listo       ,2,7,Gerson Ramirez       
+2023-02-08,Bebidas          ,Jugos          ,Jugo Tampico        ,6,15,Guillermo Altamirano 
+2023-08-07,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,5,10,Josías Padilla       
+2023-07-01,Carnes           ,Aves           ,Menudos de Pollo    ,9,14,Nathaly Grande       
+2023-08-05,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,7,18,Christian Gonzalez   
+2023-06-18,Abarrotes        ,Azucares       ,Azucar Splenda      ,8,20,Dustin Najarro       
+2023-03-14,Abarrotes        ,Azucares       ,Azucar Splenda      ,7,18,Wilmer Araniba       
+2023-11-20,Carnes           ,Aves           ,Muslo de Pollo      ,8,15,Dustin Najarro       
+2023-09-05,Abarrotes        ,Boquitas       ,Churritos           ,5,8,Dustin Najarro       
+2023-10-11,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,8,20,Christian Gonzalez   
+2023-11-18,Carnes           ,Aves           ,Pechuga de Pollo    ,5,11,Luis Hernandez       
+2023-11-12,Carnes           ,Aves           ,Pechuga de Pollo    ,10,22,Fernando Campos      
+2023-09-24,Abarrotes        ,Boquitas       ,Elotito             ,5,8,Gerson Ramirez       
+2023-01-20,Abarrotes        ,Boquitas       ,Yuquita             ,5,10,Dennis Martinez      
+2023-01-20,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,8,26,Luis Turcios         
+2023-08-26,Abarrotes        ,Margarinas     ,Margarina Dietetica ,5,8,Erick Joya           
+2023-02-17,Carnes           ,Aves           ,Menudos de Pollo    ,7,11,Wilmer Araniba       
+2023-05-15,Carnes           ,Carne de Res   ,Lomo Rollizo        ,6,39,José Monjarás        
+2023-12-10,Abarrotes        ,Boquitas       ,Palitos             ,7,10,Siria Hernandez      
+2023-04-11,Abarrotes        ,Azucares       ,Azucar Blanca       ,10,11,Wilmer Araniba       
+2023-03-15,Bebidas          ,Café Soluble   ,Juan Valdés         ,8,76,Katherine Vasquez    
+2023-05-04,Abarrotes        ,Azucares       ,Azucar Blanca       ,7,8,Fernando Campos      
+2023-08-28,Bebidas          ,Jugos          ,Jugo Naturas        ,8,10,Wilmer Araniba       
+2023-01-17,Carnes           ,Carne de Cerdo ,Lomo de Cerdo       ,6,21,Wilmer Araniba       
+2023-10-14,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,2,8,Luis Hernandez       
+2023-05-07,Abarrotes        ,Boquitas       ,Yuquita             ,7,14,Dustin Najarro       
+2023-03-14,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,10,25,Erick Joya           
+2023-05-08,Abarrotes        ,Margarinas     ,Margarina Francesa  ,10,14,Guillermo Altamirano 
+2023-08-07,Bebidas          ,Carbonatadas   ,Coca Cola           ,8,28,Douglas Flores       
+2023-11-07,Abarrotes        ,Azucares       ,Azucar Morena       ,2,3,Christian Gonzalez   
+2023-09-11,Bebidas          ,Jugos          ,Jugo V8             ,5,8,Daniel Chavez        
+2023-06-28,Bebidas          ,Jugos          ,Jugo Salud          ,7,16,Nathaly Grande       
+2023-01-25,Carnes           ,Carne de Res   ,Lomo Rollizo        ,10,65,Nathaly Grande       
+2023-03-08,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,2,7,Oscar Mejia          
+2023-04-05,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,7,14,Dennis Martinez      
+2023-07-16,Carnes           ,Carne de Res   ,Angelina            ,8,46,Luis Turcios         
+2023-08-20,Abarrotes        ,Aceites        ,Aceite Mazolla      ,6,15,Guillermo Altamirano 
+2023-02-09,Abarrotes        ,Boquitas       ,Maní Japonés        ,10,18,Katherine Vasquez    
+2023-10-15,Bebidas          ,Carbonatadas   ,Fanta               ,3,10,Fernando Campos      
+2023-10-27,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,9,37,José Monjarás        
+2023-11-17,Carnes           ,Carne de Res   ,Posta Pacha         ,10,43,Katherine Vasquez    
+2023-12-02,Abarrotes        ,Boquitas       ,Yuquita             ,2,4,Erick Joya           
+2023-01-07,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,8,24,Siria Hernandez      
+2023-06-21,Abarrotes        ,Margarinas     ,Margarina Dietetica ,9,15,Katya Peñate         
+2023-03-20,Bebidas          ,Carbonatadas   ,Pepsi               ,7,21,Gerson Ramirez       
+2023-03-10,Abarrotes        ,Boquitas       ,Elotito             ,4,6,Oscar Mejia          
+2023-10-10,Carnes           ,Carne de Res   ,Posta Negra         ,5,24,Erick Joya           
+2023-11-06,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,6,20,Wilmer Araniba       
+2023-12-04,Bebidas          ,Jugos          ,Jugo Salud          ,9,21,Katya Peñate         
+2023-06-15,Carnes           ,Aves           ,Muslo de Pollo      ,8,15,Christian Gonzalez   
+2023-06-19,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,3,8,Dustin Najarro       
+2023-08-02,Bebidas          ,Café Soluble   ,Coscafé             ,10,30,Luis Hernandez       
+2023-02-28,Bebidas          ,Jugos          ,Jugo V8             ,2,3,Guillermo Altamirano 
+2023-07-02,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,7,18,Christian Gonzalez   
+2023-01-23,Abarrotes        ,Boquitas       ,Yuquita             ,7,14,Wilmer Araniba       
+2023-06-21,Abarrotes        ,Boquitas       ,Toztecas            ,3,4,Elmer Martinez       
+2023-10-19,Abarrotes        ,Boquitas       ,Toztecas            ,6,8,Erick Joya           
+2023-10-23,Bebidas          ,Carbonatadas   ,Coca Cola           ,9,32,Dennis Martinez      
+2023-10-13,Carnes           ,Aves           ,Alitas de Pollo     ,3,7,Luis Turcios         
+2023-05-23,Abarrotes        ,Boquitas       ,Yuquita             ,7,14,Erick Joya           
+2023-01-19,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,2,9,Christian Gonzalez   
+2023-09-10,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,9,30,Daniel Chavez        
+2023-05-13,Bebidas          ,Carbonatadas   ,Sprite              ,4,13,Gerson Ramirez       
+2023-04-28,Bebidas          ,Jugos          ,Jugo Del Valle      ,5,9,Siria Hernandez      
+2023-01-11,Bebidas          ,Carbonatadas   ,Sprite              ,5,17,Gerson Ramirez       
+2023-09-09,Abarrotes        ,Azucares       ,Azucar Blanca       ,5,6,Nathaly Grande       
+2023-01-15,Carnes           ,Aves           ,Pechuga de Pollo    ,9,20,Fernando Campos      
+2023-07-26,Carnes           ,Carne de Res   ,Lomo Rollizo        ,5,33,Luis Turcios         
+2023-02-27,Bebidas          ,Carbonatadas   ,Coca Cola           ,4,14,Daniel Chavez        
+2023-01-18,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,5,21,Gerson Ramirez       
+2023-05-24,Bebidas          ,Café Soluble   ,Café Riko           ,3,9,Nathaly Grande       
+2023-09-28,Bebidas          ,Carbonatadas   ,Seven Up            ,2,6,Fernando Campos      
+2023-09-10,Bebidas          ,Carbonatadas   ,Sprite              ,8,26,Siria Hernandez      
+2023-12-04,Bebidas          ,Café Soluble   ,Café Riko           ,6,17,Gerson Ramirez       
+2023-03-18,Abarrotes        ,Aceites        ,Aceite de Oliva     ,4,18,Gerson Ramirez       
+2023-08-23,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,4,10,Dennis Martinez      
+2023-05-07,Bebidas          ,Café Soluble   ,Café Musum          ,9,30,Daniel Chavez        
+2023-11-01,Carnes           ,Aves           ,Muslo de Pollo      ,8,15,Oscar Mejia          
+2023-09-28,Abarrotes        ,Aceites        ,Aceite Orisol       ,5,13,Fernando Campos      
+2023-06-07,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,6,20,Guillermo Altamirano 
+2023-08-12,Abarrotes        ,Boquitas       ,Churritos           ,9,14,Siria Hernandez      
+2023-02-21,Bebidas          ,Café Soluble   ,Café Riko           ,9,25,José Monjarás        
+2023-08-20,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,3,10,Luis Hernandez       
+2023-05-26,Abarrotes        ,Aceites        ,Aceite Orisol       ,2,5,Luis Hernandez       
+2023-06-26,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,2,7,Dustin Najarro       
+2023-02-06,Carnes           ,Carne de Res   ,Posta Negra         ,2,10,Luis Hernandez       
+2023-04-25,Bebidas          ,Café Soluble   ,Coscafé             ,10,30,Douglas Flores       
+2023-08-14,Bebidas          ,Carbonatadas   ,Coca Cola           ,5,18,José Monjarás        
+2023-12-28,Carnes           ,Aves           ,Pechuga de Pollo    ,6,14,Siria Hernandez      
+2023-10-22,Abarrotes        ,Azucares       ,Azucar Splenda      ,6,15,Dennis Martinez      
+2023-06-13,Abarrotes        ,Boquitas       ,Palitos             ,2,3,Siria Hernandez      
+2023-01-07,Abarrotes        ,Aceites        ,Aceite El Dorado    ,5,12,Guillermo Altamirano 
+2023-04-08,Bebidas          ,Café Soluble   ,Café Musum          ,3,10,Daniel Chavez        
+2023-08-26,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,5,17,Christian Gonzalez   
+2023-06-02,Abarrotes        ,Azucares       ,Azucar Splenda      ,4,10,Douglas Flores       
+2023-10-01,Bebidas          ,Carbonatadas   ,Coca Cola           ,3,11,Oscar Mejia          
+2023-08-05,Abarrotes        ,Boquitas       ,Toztecas            ,10,13,Nathaly Grande       
+2023-07-15,Bebidas          ,Café Soluble   ,Café Musum          ,7,23,José Monjarás        
+2023-12-05,Abarrotes        ,Aceites        ,Aceite de Oliva     ,6,27,Siria Hernandez      
+2023-08-17,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,2,8,Daniel Chavez        
+2023-02-26,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,9,30,Wilmer Araniba       
+2023-01-28,Abarrotes        ,Margarinas     ,Margarina Dietetica ,6,10,Erick Joya           
+2023-03-09,Abarrotes        ,Azucares       ,Azucar Blanca       ,9,10,Guillermo Altamirano 
+2023-03-16,Carnes           ,Carne de Cerdo ,Lomo de Cerdo       ,6,21,Luis Hernandez       
+2023-09-23,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,9,23,Christian Gonzalez   
+2023-01-23,Abarrotes        ,Margarinas     ,Margarina Orisol    ,8,12,Katya Peñate         
+2023-06-03,Bebidas          ,Carbonatadas   ,Coca Cola           ,10,35,Dennis Martinez      
+2023-09-17,Abarrotes        ,Aceites        ,Aceite Orisol       ,8,20,Siria Hernandez      
+2023-05-20,Abarrotes        ,Boquitas       ,Elotito             ,4,6,Guillermo Altamirano 
+2023-07-01,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,5,13,Josías Padilla       
+2023-03-12,Abarrotes        ,Boquitas       ,Quesitos            ,9,14,Siria Hernandez      
+2023-05-05,Bebidas          ,Jugos          ,Jugo Naturas        ,7,9,Siria Hernandez      
+2023-01-17,Bebidas          ,Jugos          ,Jugo V8             ,7,11,Katherine Vasquez    
+2023-11-01,Carnes           ,Carne de Res   ,Lomo Rollizo        ,7,46,Katya Peñate         
+2023-09-10,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,5,20,Elmer Martinez       
+2023-12-19,Carnes           ,Carne de Res   ,Angelina            ,8,46,Wilmer Araniba       
+2023-01-22,Bebidas          ,Carbonatadas   ,Fanta               ,9,30,Katya Peñate         
+2023-10-17,Bebidas          ,Café Soluble   ,Café Musum          ,3,10,Wilmer Araniba       
+2023-08-03,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,4,16,José Monjarás        
+2023-11-02,Bebidas          ,Jugos          ,Jugo Salud          ,2,5,Katya Peñate         
+2023-06-09,Bebidas          ,Carbonatadas   ,Sprite              ,8,26,Erick Joya           
+2023-07-13,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,6,30,Daniel Chavez        
+2023-09-05,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,3,10,Elmer Martinez       
+2023-06-23,Bebidas          ,Café Soluble   ,Juan Valdés         ,6,57,José Monjarás        
+2023-12-12,Bebidas          ,Café Soluble   ,Coscafé             ,4,12,Dennis Martinez      
+2023-06-15,Bebidas          ,Café Soluble   ,Café Riko           ,9,25,Dustin Najarro       
+2023-02-01,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,9,27,Gerson Ramirez       
+2023-04-22,Bebidas          ,Carbonatadas   ,Coca Cola           ,5,18,Wilmer Araniba       
+2023-06-06,Abarrotes        ,Boquitas       ,Palitos             ,6,9,Daniel Chavez        
+2023-10-13,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,2,9,José Monjarás        
+2023-01-08,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,10,45,Luis Hernandez       
+2023-10-18,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,2,5,Gerson Ramirez       
+2023-05-19,Bebidas          ,Jugos          ,Jugo Salud          ,10,23,Wilmer Araniba       
+2023-04-18,Bebidas          ,Jugos          ,Jugo Salud          ,4,9,Guillermo Altamirano 
+2023-03-11,Cuidado Personal ,Jabon de Baño  ,Jabon Palmolive     ,4,11,Fernando Campos      
+2023-05-15,Abarrotes        ,Azucares       ,Azucar Blanca       ,6,7,Katherine Vasquez    
+2023-09-27,Bebidas          ,Carbonatadas   ,Coca Cola           ,3,11,Wilmer Araniba       
+2023-09-26,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,4,13,Fernando Campos      
+2023-08-16,Abarrotes        ,Aceites        ,Aceite Mazolla      ,4,10,Wilmer Araniba       
+2023-08-03,Bebidas          ,Jugos          ,Jugo Salud          ,5,12,Nathaly Grande       
+2023-02-08,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,3,8,Daniel Chavez        
+2023-02-22,Abarrotes        ,Azucares       ,Azucar Blanca       ,9,10,Nathaly Grande       
+2023-05-22,Bebidas          ,Carbonatadas   ,Fanta               ,4,13,Douglas Flores       
+2023-12-21,Bebidas          ,Café Soluble   ,Juan Valdés         ,8,76,Christian Gonzalez   
+2023-03-06,Carnes           ,Aves           ,Muslo de Pollo      ,9,17,Nathaly Grande       
+2023-06-04,Bebidas          ,Jugos          ,Jugo Tampico        ,10,25,Katherine Vasquez    
+2023-05-26,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,7,18,Nathaly Grande       
+2023-05-01,Bebidas          ,Jugos          ,Jugo Tampico        ,9,23,Christian Gonzalez   
+2023-12-20,Bebidas          ,Carbonatadas   ,Seven Up            ,8,24,Katherine Vasquez    
+2023-08-24,Cuidado Personal ,Jabon de Baño  ,Jabon Palmolive     ,4,11,Daniel Chavez        
+2023-01-14,Bebidas          ,Jugos          ,Jugo Del Valle      ,8,14,Siria Hernandez      
+2023-12-19,Carnes           ,Carne de Res   ,Puyazo              ,3,16,Douglas Flores       
+2023-06-09,Abarrotes        ,Boquitas       ,Palitos             ,6,9,Guillermo Altamirano 
+2023-11-15,Abarrotes        ,Boquitas       ,Quesitos            ,10,15,Gerson Ramirez       
+2023-12-13,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,7,14,Siria Hernandez      
+2023-02-14,Abarrotes        ,Aceites        ,Aceite El Dorado    ,8,20,Fernando Campos      
+2023-09-16,Bebidas          ,Carbonatadas   ,Fanta               ,8,26,Oscar Mejia          
+2023-11-13,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,6,15,Christian Gonzalez   
+2023-08-20,Abarrotes        ,Azucares       ,Azucar Morena       ,2,3,Daniel Chavez        
+2023-08-22,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,4,18,Oscar Mejia          
+2023-02-21,Carnes           ,Carne de Res   ,Posta Negra         ,6,29,Wilmer Araniba       
+2023-06-16,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,9,41,Dennis Martinez      
+2023-02-14,Carnes           ,Aves           ,Muslo de Pollo      ,6,12,Elmer Martinez       
+2023-05-25,Abarrotes        ,Margarinas     ,Margarina Orisol    ,5,8,José Monjarás        
+2023-12-05,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,10,25,Luis Turcios         
+2023-03-26,Bebidas          ,Jugos          ,Jugo Naturas        ,5,7,Douglas Flores       
+2023-04-27,Carnes           ,Carne de Res   ,Posta Negra         ,9,43,José Monjarás        
+2023-09-15,Bebidas          ,Carbonatadas   ,Pepsi               ,3,9,Oscar Mejia          
+2023-07-03,Abarrotes        ,Aceites        ,Aceite Orisol       ,7,18,Christian Gonzalez   
+2023-04-11,Abarrotes        ,Boquitas       ,Elotito             ,10,15,Daniel Chavez        
+2023-01-13,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,7,28,Josías Padilla       
+2023-08-13,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,2,7,Gerson Ramirez       
+2023-04-22,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,10,50,Guillermo Altamirano 
+2023-01-19,Bebidas          ,Café Soluble   ,Café Riko           ,2,6,Dustin Najarro       
+2023-01-15,Bebidas          ,Café Soluble   ,Café Riko           ,9,25,Oscar Mejia          
+2023-02-11,Abarrotes        ,Margarinas     ,Margarina Orisol    ,6,9,Luis Hernandez       
+2023-04-11,Abarrotes        ,Azucares       ,Azucar Morena       ,9,11,Wilmer Araniba       
+2023-02-23,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,3,12,Siria Hernandez      
+2023-07-15,Abarrotes        ,Margarinas     ,Margarina Francesa  ,6,9,Siria Hernandez      
+2023-12-22,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,7,28,Fernando Campos      
+2023-06-07,Carnes           ,Aves           ,Muslo de Pollo      ,10,19,Fernando Campos      
+2023-05-07,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,7,18,Guillermo Altamirano 
+2023-04-28,Bebidas          ,Café Soluble   ,Juan Valdés         ,4,38,Christian Gonzalez   
+2023-09-26,Carnes           ,Carne de Res   ,Lomo Rollizo        ,7,46,Christian Gonzalez   
+2023-04-08,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,3,14,Siria Hernandez      
+2023-01-22,Abarrotes        ,Boquitas       ,Elotito             ,6,9,Guillermo Altamirano 
+2023-09-04,Bebidas          ,Jugos          ,Jugo Tampico        ,3,8,Fernando Campos      
+2023-04-07,Abarrotes        ,Azucares       ,Azucar Splenda      ,5,13,Luis Turcios         
+2023-05-19,Abarrotes        ,Boquitas       ,Tortillitas         ,5,8,Elmer Martinez       
+2023-11-27,Abarrotes        ,Aceites        ,Aceite Orisol       ,6,15,Siria Hernandez      
+2023-04-08,Abarrotes        ,Aceites        ,Aceite Orisol       ,10,25,Fernando Campos      
+2023-01-23,Carnes           ,Carne de Res   ,Posta Pacha         ,6,26,José Monjarás        
+2023-10-27,Bebidas          ,Carbonatadas   ,Fanta               ,9,30,Elmer Martinez       
+2023-12-20,Abarrotes        ,Boquitas       ,Elotito             ,4,6,Oscar Mejia          
+2023-10-04,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,2,6,Dennis Martinez      
+2023-05-02,Bebidas          ,Café Soluble   ,Coscafé             ,10,30,Oscar Mejia          
+2023-12-20,Abarrotes        ,Boquitas       ,Churritos           ,4,6,Luis Turcios         
+2023-03-20,Abarrotes        ,Boquitas       ,Churritos           ,9,14,Luis Turcios         
+2023-07-12,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,7,23,Josías Padilla       
+2023-12-23,Abarrotes        ,Aceites        ,Aceite de Girasol   ,10,38,Wilmer Araniba       
+2023-09-17,Bebidas          ,Café Soluble   ,Café Riko           ,7,20,Dustin Najarro       
+2023-08-20,Abarrotes        ,Boquitas       ,Elotito             ,8,12,Katherine Vasquez    
+2023-02-18,Cuidado Personal ,Jabon de Baño  ,Jabon Palmolive     ,2,6,Oscar Mejia          
+2023-02-24,Abarrotes        ,Boquitas       ,Maní Japonés        ,3,6,Siria Hernandez      
+2023-10-22,Abarrotes        ,Margarinas     ,Margarina Dany      ,3,4,Wilmer Araniba       
+2023-06-06,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,6,18,Luis Hernandez       
+2023-11-09,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,6,27,Erick Joya           
+2023-06-19,Carnes           ,Aves           ,Alitas de Pollo     ,9,21,Luis Hernandez       
+2023-04-05,Bebidas          ,Café Soluble   ,Nescafé Listo       ,2,7,Oscar Mejia          
+2023-02-21,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,7,17,Erick Joya           
+2023-05-09,Abarrotes        ,Margarinas     ,Margarina Dietetica ,10,16,Daniel Chavez        
+2023-06-01,Bebidas          ,Café Soluble   ,Nescafé Listo       ,7,25,Josías Padilla       
+2023-06-15,Bebidas          ,Jugos          ,Jugo Tampico        ,7,18,Gerson Ramirez       
+2023-11-22,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,5,10,Nathaly Grande       
+2023-08-12,Bebidas          ,Jugos          ,Jugo Naturas        ,10,13,Douglas Flores       
+2023-02-15,Bebidas          ,Café Soluble   ,Café Musum          ,3,10,Erick Joya           
+2023-12-03,Carnes           ,Carne de Res   ,Lomo Rollizo        ,9,59,Siria Hernandez      
+2023-01-04,Abarrotes        ,Aceites        ,Aceite Orisol       ,4,10,Douglas Flores       
+2023-10-06,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,4,17,José Monjarás        
+2023-02-20,Abarrotes        ,Boquitas       ,Maní Japonés        ,7,13,Dennis Martinez      
+2023-04-10,Carnes           ,Carne de Res   ,Posta Pacha         ,7,30,Daniel Chavez        
+2023-10-18,Abarrotes        ,Margarinas     ,Margarina Francesa  ,7,10,Wilmer Araniba       
+2023-10-05,Abarrotes        ,Margarinas     ,Margarina Dany      ,5,7,Gerson Ramirez       
+2023-06-22,Abarrotes        ,Boquitas       ,Toztecas            ,2,3,Katya Peñate         
+2023-09-05,Abarrotes        ,Margarinas     ,Margarina Orisol    ,3,5,Nathaly Grande       
+2023-01-18,Abarrotes        ,Margarinas     ,Margarina Orisol    ,2,3,Douglas Flores       
+2023-06-23,Carnes           ,Carne de Res   ,Posta Pacha         ,3,13,Fernando Campos      
+2023-10-25,Carnes           ,Aves           ,Alitas de Pollo     ,2,5,Luis Hernandez       
+2023-03-22,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,7,21,Fernando Campos      
+2023-04-11,Carnes           ,Aves           ,Muslo de Pollo      ,7,13,Gerson Ramirez       
+2023-08-08,Abarrotes        ,Boquitas       ,Tortillitas         ,8,12,Josías Padilla       
+2023-06-03,Carnes           ,Aves           ,Pechuga de Pollo    ,7,16,Guillermo Altamirano 
+2023-02-17,Abarrotes        ,Boquitas       ,Quesitos            ,2,3,Katya Peñate         
+2023-10-04,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,10,24,Daniel Chavez        
+2023-03-24,Abarrotes        ,Boquitas       ,Churritos           ,10,15,Luis Hernandez       
+2023-10-26,Abarrotes        ,Boquitas       ,Churritos           ,6,9,Siria Hernandez      
+2023-06-16,Carnes           ,Carne de Res   ,Posta Pacha         ,3,13,Dustin Najarro       
+2023-08-11,Abarrotes        ,Aceites        ,Aceite Orisol       ,5,13,Douglas Flores       
+2023-06-15,Abarrotes        ,Boquitas       ,Quesitos            ,6,9,Katherine Vasquez    
+2023-02-16,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,5,17,Nathaly Grande       
+2023-05-14,Bebidas          ,Jugos          ,Jugo Del Valle      ,9,16,Josías Padilla       
+2023-08-03,Abarrotes        ,Aceites        ,Aceite de Girasol   ,4,15,Luis Hernandez       
+2023-03-19,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,8,20,Luis Turcios         
+2023-07-21,Bebidas          ,Café Soluble   ,Café Musum          ,4,13,Wilmer Araniba       
+2023-08-17,Abarrotes        ,Aceites        ,Aceite Mazolla      ,2,5,Douglas Flores       
+2023-03-09,Bebidas          ,Café Soluble   ,Café Musum          ,6,20,Christian Gonzalez   
+2023-12-20,Carnes           ,Aves           ,Menudos de Pollo    ,5,8,Siria Hernandez      
+2023-03-02,Bebidas          ,Carbonatadas   ,Fanta               ,4,13,Wilmer Araniba       
+2023-01-03,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,4,10,Nathaly Grande       
+2023-09-12,Bebidas          ,Café Soluble   ,Café Musum          ,5,17,Guillermo Altamirano 
+2023-02-10,Cuidado Personal ,Jabon de Baño  ,Jabon Palmolive     ,9,25,Douglas Flores       
+2023-12-01,Carnes           ,Carne de Res   ,Angelina            ,5,29,Daniel Chavez        
+2023-03-18,Abarrotes        ,Aceites        ,Aceite Mazolla      ,7,17,Douglas Flores       
+2023-09-05,Carnes           ,Carne de Res   ,Angelina            ,8,46,Daniel Chavez        
+2023-11-03,Abarrotes        ,Boquitas       ,Churritos           ,4,6,Gerson Ramirez       
+2023-03-02,Bebidas          ,Carbonatadas   ,Seven Up            ,4,12,Luis Hernandez       
+2023-08-13,Bebidas          ,Café Soluble   ,Coscafé             ,3,9,Oscar Mejia          
+2023-02-27,Bebidas          ,Café Soluble   ,Nescafé Listo       ,3,11,Gerson Ramirez       
+2023-10-22,Bebidas          ,Café Soluble   ,Coscafé             ,4,12,Gerson Ramirez       
+2023-02-10,Abarrotes        ,Margarinas     ,Margarina Orisol    ,4,6,Fernando Campos      
+2023-04-27,Carnes           ,Carne de Res   ,Posta Negra         ,5,24,Guillermo Altamirano 
+2023-11-28,Abarrotes        ,Boquitas       ,Yuquita             ,8,16,Siria Hernandez      
+2023-04-07,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,7,18,Oscar Mejia          
+2023-01-06,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,8,20,Guillermo Altamirano 
+2023-03-17,Abarrotes        ,Boquitas       ,Toztecas            ,7,10,Gerson Ramirez       
+2023-02-12,Carnes           ,Carne de Res   ,Angelina            ,6,34,José Monjarás        
+2023-02-26,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,5,20,Katherine Vasquez    
+2023-06-27,Abarrotes        ,Margarinas     ,Margarina Orisol    ,5,8,Dennis Martinez      
+2023-07-10,Bebidas          ,Café Soluble   ,Nescafé Listo       ,6,21,Josías Padilla       
+2023-02-08,Abarrotes        ,Azucares       ,Azucar Splenda      ,5,13,Oscar Mejia          
+2023-09-06,Bebidas          ,Jugos          ,Jugo V8             ,3,5,Dennis Martinez      
+2023-05-23,Bebidas          ,Jugos          ,Jugo Tampico        ,6,15,Guillermo Altamirano 
+2023-07-27,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,5,13,Douglas Flores       
+2023-07-23,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,10,25,Josías Padilla       
+2023-10-27,Abarrotes        ,Boquitas       ,Palitos             ,5,7,Fernando Campos      
+2023-09-17,Abarrotes        ,Boquitas       ,Maní Japonés        ,8,14,Guillermo Altamirano 
+2023-03-27,Abarrotes        ,Margarinas     ,Margarina Francesa  ,10,14,Dustin Najarro       
+2023-03-02,Abarrotes        ,Boquitas       ,Maní Japonés        ,10,18,Dustin Najarro       
+2023-11-20,Abarrotes        ,Margarinas     ,Margarina Dany      ,3,4,Dustin Najarro       
+2023-08-27,Cuidado Personal ,Crema Dental   ,Pasta Oral-B        ,9,27,Fernando Campos      
+2023-08-05,Carnes           ,Aves           ,Muslo de Pollo      ,6,12,Elmer Martinez       
+2023-08-19,Bebidas          ,Carbonatadas   ,Seven Up            ,10,30,Elmer Martinez       
+2023-10-02,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,9,45,José Monjarás        
+2023-05-12,Abarrotes        ,Aceites        ,Aceite Santa Clara  ,2,5,Fernando Campos      
+2023-02-14,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,9,37,Dustin Najarro       
+2023-05-14,Carnes           ,Aves           ,Pechuga de Pollo    ,5,11,Siria Hernandez      
+2023-11-06,Carnes           ,Aves           ,Menudos de Pollo    ,4,6,Josías Padilla       
+2023-09-18,Abarrotes        ,Aceites        ,Aceite El Dorado    ,8,20,Siria Hernandez      
+2023-07-01,Cuidado Personal ,Jabon de Baño  ,Jabon Palmolive     ,2,6,Dustin Najarro       
+2023-01-16,Abarrotes        ,Aceites        ,Aceite Orisol       ,4,10,José Monjarás        
+2023-04-28,Abarrotes        ,Aceites        ,Aceite de Girasol   ,5,19,Josías Padilla       
+2023-06-24,Abarrotes        ,Aceites        ,Aceite El Dorado    ,3,8,Nathaly Grande       
+2023-06-01,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,6,20,Elmer Martinez       
+2023-02-09,Abarrotes        ,Aceites        ,Aceite El Dorado    ,4,10,Christian Gonzalez   
+2023-07-24,Bebidas          ,Jugos          ,Jugo Tampico        ,2,5,Douglas Flores       
+2023-10-28,Bebidas          ,Café Soluble   ,Café Riko           ,7,20,Guillermo Altamirano 
+2023-08-13,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,9,30,Siria Hernandez      
+2023-10-15,Abarrotes        ,Aceites        ,Aceite de Girasol   ,6,23,Dennis Martinez      
+2023-04-13,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,8,33,Dustin Najarro       
+2023-09-14,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,9,23,Fernando Campos      
+2023-09-05,Bebidas          ,Jugos          ,Jugo V8             ,4,6,Katherine Vasquez    
+2023-03-23,Carnes           ,Aves           ,Muslo de Pollo      ,9,17,Elmer Martinez       
+2023-06-05,Bebidas          ,Café Soluble   ,Café Riko           ,10,28,Fernando Campos      
+2023-08-14,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,10,19,Douglas Flores       
+2023-02-19,Bebidas          ,Café Soluble   ,Coscafé             ,4,12,Luis Turcios         
+2023-12-26,Bebidas          ,Jugos          ,Jugo V8             ,9,14,Oscar Mejia          
+2023-07-03,Abarrotes        ,Boquitas       ,Toztecas            ,9,12,Erick Joya           
+2023-10-12,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,3,13,Josías Padilla       
+2023-03-12,Bebidas          ,Café Soluble   ,Café Musum          ,6,20,José Monjarás        
+2023-11-28,Bebidas          ,Jugos          ,Jugo Salud          ,9,21,Nathaly Grande       
+2023-03-05,Carnes           ,Aves           ,Alitas de Pollo     ,3,7,Elmer Martinez       
+2023-07-23,Carnes           ,Carne de Res   ,Angelina            ,7,40,Nathaly Grande       
+2023-01-04,Abarrotes        ,Aceites        ,Aceite de Oliva     ,5,23,Guillermo Altamirano 
+2023-09-24,Carnes           ,Aves           ,Alitas de Pollo     ,2,5,Guillermo Altamirano 
+2023-06-04,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,7,29,Luis Hernandez       
+2023-10-04,Bebidas          ,Carbonatadas   ,Seven Up            ,9,27,Dustin Najarro       
+2023-10-26,Abarrotes        ,Boquitas       ,Palitos             ,4,6,Erick Joya           
+2023-09-08,Carnes           ,Aves           ,Muslo de Pollo      ,6,12,Katherine Vasquez    
+2023-07-01,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,8,26,Luis Hernandez       
+2023-03-20,Bebidas          ,Carbonatadas   ,Fanta               ,10,33,Dustin Najarro       
+2023-02-25,Carnes           ,Aves           ,Muslo de Pollo      ,4,8,Luis Turcios         
+2023-01-21,Bebidas          ,Carbonatadas   ,Pepsi               ,8,24,Nathaly Grande       
+2023-12-28,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,2,8,José Monjarás        
+2023-10-19,Carnes           ,Carne de Res   ,Posta Negra         ,6,29,José Monjarás        
+2023-08-08,Bebidas          ,Café Soluble   ,Nescafé Listo       ,10,35,Luis Turcios         
+2023-09-07,Bebidas          ,Jugos          ,Jugo Tampico        ,2,5,Gerson Ramirez       
+2023-10-14,Carnes           ,Carne de Res   ,Puyazo              ,10,53,Erick Joya           
+2023-04-01,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,9,23,Oscar Mejia          
+2023-08-12,Bebidas          ,Jugos          ,Jugo Naturas        ,6,8,Douglas Flores       
+2023-05-22,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,7,14,Nathaly Grande       
+2023-02-28,Bebidas          ,Café Soluble   ,Juan Valdés         ,7,67,Luis Turcios         
+2023-11-20,Bebidas          ,Jugos          ,Jugo V8             ,2,3,Wilmer Araniba       
+2023-01-16,Abarrotes        ,Aceites        ,Aceite de Oliva     ,9,41,Erick Joya           
+2023-06-06,Bebidas          ,Café Soluble   ,Café Musum          ,5,17,Luis Turcios         
+2023-06-28,Carnes           ,Aves           ,Menudos de Pollo    ,8,12,Nathaly Grande       
+2023-07-26,Abarrotes        ,Aceites        ,Aceite Orisol       ,8,20,Fernando Campos      
+2023-03-11,Abarrotes        ,Azucares       ,Azucar Blanca       ,3,4,Douglas Flores       
+2023-08-05,Abarrotes        ,Azucares       ,Azucar Morena       ,3,4,Fernando Campos      
+2023-02-09,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,6,24,Katherine Vasquez    
+2023-11-05,Carnes           ,Aves           ,Alitas de Pollo     ,2,5,Douglas Flores       
+2023-02-18,Abarrotes        ,Boquitas       ,Toztecas            ,3,4,Katherine Vasquez    
+2023-04-18,Abarrotes        ,Margarinas     ,Margarina Orisol    ,9,14,Daniel Chavez        
+2023-12-01,Abarrotes        ,Azucares       ,Azucar Morena       ,9,11,Oscar Mejia          
+2023-03-12,Abarrotes        ,Margarinas     ,Margarina Dany      ,8,11,Elmer Martinez       
+2023-07-11,Cuidado Personal ,Crema Dental   ,Pasta Aquafresh     ,4,10,Elmer Martinez       
+2023-04-22,Abarrotes        ,Aceites        ,Aceite de Oliva     ,3,14,Wilmer Araniba       
+2023-07-22,Abarrotes        ,Boquitas       ,Elotito             ,2,3,Gerson Ramirez       
+2023-05-13,Bebidas          ,Jugos          ,Jugo V8             ,5,8,Siria Hernandez      
+2023-03-20,Abarrotes        ,Aceites        ,Aceite de Oliva     ,7,32,Nathaly Grande       
+2023-07-17,Bebidas          ,Café Soluble   ,Café Musum          ,6,20,Dennis Martinez      
+2023-03-16,Bebidas          ,Café Soluble   ,Café Musum          ,2,7,Dustin Najarro       
+2023-09-14,Bebidas          ,Café Soluble   ,Coscafé             ,9,27,Katya Peñate         
+2023-01-01,Abarrotes        ,Aceites        ,Aceite El Dorado    ,5,12,Gerson Ramirez       
+2023-10-18,Abarrotes        ,Boquitas       ,Yuquita             ,6,12,Douglas Flores       
+2023-06-22,Abarrotes        ,Aceites        ,Aceite Santa Clara  ,9,21,Elmer Martinez       
+2023-05-18,Abarrotes        ,Aceites        ,Aceite El Dorado    ,10,24,Luis Hernandez       
+2023-07-24,Bebidas          ,Carbonatadas   ,Coca Cola           ,2,7,Erick Joya           
+2023-05-28,Bebidas          ,Jugos          ,Jugo Tampico        ,5,13,Guillermo Altamirano 
+2023-12-21,Carnes           ,Carne de Res   ,Posta Pacha         ,2,9,Siria Hernandez      
+2023-06-14,Bebidas          ,Café Soluble   ,Coscafé             ,10,30,Guillermo Altamirano 
+2023-02-11,Bebidas          ,Café Soluble   ,Café Riko           ,10,28,Nathaly Grande       
+2023-10-12,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,4,13,José Monjarás        
+2023-11-14,Bebidas          ,Café Soluble   ,Café Riko           ,10,28,Luis Turcios         
+2023-04-19,Abarrotes        ,Boquitas       ,Toztecas            ,8,11,Fernando Campos      
+2023-09-10,Abarrotes        ,Margarinas     ,Margarina Orisol    ,6,9,Luis Turcios         
+2023-08-19,Abarrotes        ,Boquitas       ,Churritos           ,8,12,Daniel Chavez        
+2023-05-26,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,4,10,Siria Hernandez      
+2023-10-01,Abarrotes        ,Boquitas       ,Yuquita             ,2,4,Daniel Chavez        
+2023-05-24,Abarrotes        ,Boquitas       ,Elotito             ,5,8,Guillermo Altamirano 
+2023-04-21,Abarrotes        ,Boquitas       ,Churritos           ,3,5,Nathaly Grande       
+2023-08-26,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,4,17,Josías Padilla       
+2023-12-08,Bebidas          ,Café Soluble   ,Juan Valdés         ,2,19,Siria Hernandez      
+2023-12-23,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,4,10,Luis Hernandez       
+2023-09-25,Abarrotes        ,Azucares       ,Azucar Blanca       ,2,3,Guillermo Altamirano 
+2023-12-26,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,10,39,Wilmer Araniba       
+2023-12-14,Carnes           ,Aves           ,Menudos de Pollo    ,8,12,Luis Turcios         
+2023-06-14,Abarrotes        ,Boquitas       ,Tortillitas         ,8,12,Christian Gonzalez   
+2023-05-16,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,9,30,Siria Hernandez      
+2023-12-09,Carnes           ,Carne de Res   ,Puyazo              ,8,42,Nathaly Grande       
+2023-10-10,Carnes           ,Aves           ,Muslo de Pollo      ,7,13,Oscar Mejia          
+2023-11-16,Bebidas          ,Jugos          ,Jugo Salud          ,7,16,Josías Padilla       
+2023-11-23,Carnes           ,Aves           ,Muslo de Pollo      ,3,6,Erick Joya           
+2023-10-18,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,9,41,Gerson Ramirez       
+2023-12-05,Abarrotes        ,Margarinas     ,Margarina Dany      ,3,4,Dustin Najarro       
+2023-05-26,Abarrotes        ,Aceites        ,Aceite Orisol       ,4,10,Dennis Martinez      
+2023-08-20,Carnes           ,Carne de Res   ,Angelina            ,8,46,Siria Hernandez      
+2023-12-21,Abarrotes        ,Azucares       ,Azucar Blanca       ,2,3,Luis Turcios         
+2023-03-16,Abarrotes        ,Boquitas       ,Elotito             ,10,15,Dennis Martinez      
+2023-11-24,Abarrotes        ,Aceites        ,Aceite El Dorado    ,2,5,Guillermo Altamirano 
+2023-12-21,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,5,21,Katya Peñate         
+2023-06-04,Bebidas          ,Carbonatadas   ,Fanta               ,7,23,Guillermo Altamirano 
+2023-11-05,Carnes           ,Aves           ,Menudos de Pollo    ,2,3,Katya Peñate         
+2023-10-15,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,6,18,Siria Hernandez      
+2023-07-09,Bebidas          ,Café Soluble   ,Café Musum          ,9,30,Katherine Vasquez    
+2023-02-22,Bebidas          ,Café Soluble   ,Juan Valdés         ,3,29,Nathaly Grande       
+2023-11-09,Abarrotes        ,Margarinas     ,Margarina Dietetica ,9,15,Elmer Martinez       
+2023-02-01,Abarrotes        ,Aceites        ,Aceite Orisol       ,6,15,Luis Turcios         
+2023-09-25,Bebidas          ,Jugos          ,Jugo Salud          ,8,18,Luis Hernandez       
+2023-01-22,Abarrotes        ,Margarinas     ,Margarina Dany      ,7,10,Dustin Najarro       
+2023-05-06,Bebidas          ,Café Soluble   ,Café Musum          ,7,23,Erick Joya           
+2023-12-27,Abarrotes        ,Azucares       ,Azucar Morena       ,10,12,Dustin Najarro       
+2023-12-16,Bebidas          ,Café Soluble   ,Café Musum          ,6,20,Wilmer Araniba       
+2023-01-27,Abarrotes        ,Aceites        ,Aceite Santa Clara  ,8,19,Guillermo Altamirano 
+2023-10-26,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,10,33,Erick Joya           
+2023-04-19,Abarrotes        ,Azucares       ,Azucar Morena       ,10,12,Erick Joya           
+2023-05-15,Abarrotes        ,Boquitas       ,Tortillitas         ,5,8,Josías Padilla       
+2023-05-06,Abarrotes        ,Azucares       ,Azucar Blanca       ,5,6,Siria Hernandez      
+2023-09-13,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,3,8,Christian Gonzalez   
+2023-06-11,Bebidas          ,Jugos          ,Jugo Tampico        ,5,13,Guillermo Altamirano 
+2023-11-15,Bebidas          ,Carbonatadas   ,Fanta               ,3,10,Gerson Ramirez       
+2023-03-03,Abarrotes        ,Azucares       ,Azucar Blanca       ,5,6,Guillermo Altamirano 
+2023-02-06,Bebidas          ,Café Soluble   ,Café Riko           ,2,6,Christian Gonzalez   
+2023-06-21,Abarrotes        ,Boquitas       ,Maní Japonés        ,5,9,Dustin Najarro       
+2023-08-04,Abarrotes        ,Margarinas     ,Margarina Dietetica ,8,13,Dennis Martinez      
+2023-09-03,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,5,23,Katya Peñate         
+2023-05-25,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,9,37,Dustin Najarro       
+2023-10-05,Abarrotes        ,Aceites        ,Aceite Orisol       ,5,13,Douglas Flores       
+2023-12-21,Bebidas          ,Café Soluble   ,Juan Valdés         ,8,76,Katherine Vasquez    
+2023-05-24,Abarrotes        ,Aceites        ,Aceite de Oliva     ,10,45,José Monjarás        
+2023-10-16,Carnes           ,Aves           ,Alitas de Pollo     ,4,9,Douglas Flores       
+2023-04-08,Abarrotes        ,Boquitas       ,Churritos           ,2,3,Fernando Campos      
+2023-05-10,Bebidas          ,Jugos          ,Jugo V8             ,7,11,Douglas Flores       
+2023-12-03,Abarrotes        ,Aceites        ,Aceite Orisol       ,9,23,Daniel Chavez        
+2023-03-07,Bebidas          ,Jugos          ,Jugo Salud          ,6,14,Katherine Vasquez    
+2023-07-09,Bebidas          ,Jugos          ,Jugo Naturas        ,10,13,Erick Joya           
+2023-06-22,Abarrotes        ,Azucares       ,Azucar Morena       ,3,4,Fernando Campos      
+2023-10-25,Cuidado Personal ,Crema Dental   ,Pasta Oral-B        ,4,12,Elmer Martinez       
+2023-12-26,Carnes           ,Aves           ,Alitas de Pollo     ,3,7,Fernando Campos      
+2023-01-07,Carnes           ,Aves           ,Menudos de Pollo    ,9,14,Fernando Campos      
+2023-08-14,Carnes           ,Carne de Cerdo ,Lomo de Cerdo       ,8,28,José Monjarás        
+2023-01-04,Carnes           ,Carne de Cerdo ,Nuca de Cerdo       ,8,26,Oscar Mejia          
+2023-03-13,Abarrotes        ,Aceites        ,Aceite Mazolla      ,5,12,Elmer Martinez       
+2023-04-04,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,4,17,Josías Padilla       
+2023-05-16,Abarrotes        ,Boquitas       ,Quesitos            ,9,14,Luis Hernandez       
+2023-09-11,Abarrotes        ,Aceites        ,Aceite Orisol       ,2,5,Katya Peñate         
+2023-09-05,Abarrotes        ,Azucares       ,Azucar Morena       ,7,9,Katya Peñate         
+2023-01-02,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,5,25,Christian Gonzalez   
+2023-07-12,Bebidas          ,Café Soluble   ,Café Riko           ,6,17,Christian Gonzalez   
+2023-08-05,Bebidas          ,Jugos          ,Jugo Naturas        ,4,5,Gerson Ramirez       
+2023-04-20,Abarrotes        ,Margarinas     ,Margarina Orisol    ,5,8,Katherine Vasquez    
+2023-11-24,Abarrotes        ,Margarinas     ,Margarina Francesa  ,9,13,José Monjarás        
+2023-06-16,Abarrotes        ,Azucares       ,Azucar Blanca       ,9,10,Siria Hernandez      
+2023-01-08,Abarrotes        ,Boquitas       ,Toztecas            ,2,3,Nathaly Grande       
+2023-10-15,Bebidas          ,Carbonatadas   ,Seven Up            ,3,9,Elmer Martinez       
+2023-12-07,Carnes           ,Aves           ,Menudos de Pollo    ,3,5,Katya Peñate         
+2023-12-19,Bebidas          ,Café Soluble   ,Coscafé             ,10,30,Elmer Martinez       
+2023-10-01,Abarrotes        ,Aceites        ,Aceite de Oliva     ,5,23,Dennis Martinez      
+2023-05-01,Abarrotes        ,Azucares       ,Azucar Blanca       ,5,6,Erick Joya           
+2023-03-16,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,10,45,Douglas Flores       
+2023-09-02,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,2,10,Katherine Vasquez    
+2023-03-28,Bebidas          ,Jugos          ,Jugo Naturas        ,10,13,Elmer Martinez       
+2023-10-20,Abarrotes        ,Aceites        ,Aceite Orisol       ,3,8,Douglas Flores       
+2023-10-09,Carnes           ,Carne de Res   ,Lomo Rollizo        ,9,59,Wilmer Araniba       
+2023-02-06,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,8,16,Siria Hernandez      
+2023-01-25,Abarrotes        ,Azucares       ,Azucar Blanca       ,7,8,Gerson Ramirez       
+2023-09-02,Abarrotes        ,Aceites        ,Aceite Santa Clara  ,4,10,Douglas Flores       
+2023-01-14,Abarrotes        ,Margarinas     ,Margarina Dietetica ,4,7,Daniel Chavez        
+2023-08-27,Abarrotes        ,Aceites        ,Aceite Orisol       ,9,23,Douglas Flores       
+2023-04-07,Abarrotes        ,Aceites        ,Aceite de Oliva     ,9,41,Gerson Ramirez       
+2023-12-10,Bebidas          ,Carbonatadas   ,Coca Cola           ,10,35,Katya Peñate         
+2023-07-02,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,2,7,Fernando Campos      
+2023-03-16,Bebidas          ,Café Soluble   ,Nescafé Listo       ,4,14,Douglas Flores       
+2023-05-13,Abarrotes        ,Margarinas     ,Margarina Francesa  ,3,5,Douglas Flores       
+2023-09-10,Carnes           ,Aves           ,Pechuga de Pollo    ,9,20,Oscar Mejia          
+2023-02-21,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,5,17,Dustin Najarro       
+2023-11-13,Abarrotes        ,Margarinas     ,Margarina Francesa  ,3,5,Katya Peñate         
+2023-06-05,Abarrotes        ,Margarinas     ,Margarina Francesa  ,9,13,Dennis Martinez      
+2023-06-01,Bebidas          ,Café Soluble   ,Juan Valdés         ,3,29,Guillermo Altamirano 
+2023-02-03,Abarrotes        ,Aceites        ,Aceite El Dorado    ,8,20,Luis Hernandez       
+2023-07-15,Abarrotes        ,Boquitas       ,Maní Japonés        ,2,4,Elmer Martinez       
+2023-06-16,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,4,20,Elmer Martinez       
+2023-12-25,Abarrotes        ,Boquitas       ,Tortillitas         ,6,9,Christian Gonzalez   
+2023-06-21,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,2,9,José Monjarás        
+2023-06-06,Bebidas          ,Café Soluble   ,Café Musum          ,6,20,Oscar Mejia          
+2023-03-27,Abarrotes        ,Aceites        ,Aceite Orisol       ,9,23,Luis Turcios         
+2023-08-25,Abarrotes        ,Aceites        ,Aceite El Dorado    ,7,17,Katya Peñate         
+2023-12-22,Abarrotes        ,Boquitas       ,Toztecas            ,10,13,Daniel Chavez        
+2023-08-08,Abarrotes        ,Boquitas       ,Palitos             ,6,9,Katherine Vasquez    
+2023-04-10,Abarrotes        ,Boquitas       ,Churritos           ,5,8,Christian Gonzalez   
+2023-05-24,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,4,12,Katya Peñate         
+2023-06-13,Cuidado Personal ,Desodorantes   ,Desodorante Nivea   ,6,30,Gerson Ramirez       
+2023-09-06,Cuidado Personal ,Crema Dental   ,Pasta Sensodyne     ,6,25,Daniel Chavez        
+2023-06-13,Carnes           ,Aves           ,Pechuga de Pollo    ,6,14,Luis Turcios         
+2023-12-13,Bebidas          ,Jugos          ,Jugo Del Valle      ,4,7,Christian Gonzalez   
+2023-06-21,Abarrotes        ,Aceites        ,Aceite de Girasol   ,3,12,Siria Hernandez      
+2023-02-18,Abarrotes        ,Margarinas     ,Margarina Orisol    ,10,15,Dennis Martinez      
+2023-11-02,Cuidado Personal ,Jabon de Baño  ,Jabon Protex        ,4,12,Wilmer Araniba       
+2023-06-17,Carnes           ,Carne de Res   ,Posta Pacha         ,2,9,Siria Hernandez      
+2023-08-05,Abarrotes        ,Margarinas     ,Margarina Orisol    ,5,8,Dustin Najarro       
+2023-09-16,Bebidas          ,Café Soluble   ,Juan Valdés         ,7,67,Dennis Martinez      
+2023-06-02,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,5,23,Dustin Najarro       
+2023-10-10,Abarrotes        ,Aceites        ,Aceite de Oliva     ,8,36,Dustin Najarro       
+2023-11-23,Bebidas          ,Café Soluble   ,Café Riko           ,10,28,Guillermo Altamirano 
+2023-08-27,Cuidado Personal ,Desodorantes   ,Desodorante Dove    ,7,32,Dustin Najarro       
+2023-04-08,Abarrotes        ,Margarinas     ,Margarina Dietetica ,6,10,Luis Hernandez       
+2023-04-25,Carnes           ,Carne de Res   ,Lomo Rollizo        ,8,52,Nathaly Grande       
+2023-07-20,Carnes           ,Carne de Cerdo ,Costilla de Cerdo   ,9,23,José Monjarás        
+2023-07-28,Bebidas          ,Jugos          ,Jugo V8             ,8,12,Christian Gonzalez   
+2023-07-06,Carnes           ,Carne de Res   ,Puyazo              ,6,32,Katherine Vasquez    
+2023-10-24,Abarrotes        ,Aceites        ,Aceite El Dorado    ,5,12,Fernando Campos      
+2023-02-09,Abarrotes        ,Boquitas       ,Tortillitas         ,6,9,Guillermo Altamirano 
+2023-01-16,Abarrotes        ,Aceites        ,Aceite Santa Clara  ,4,10,Katya Peñate         
+2023-02-06,Bebidas          ,Jugos          ,Jugo Salud          ,9,21,Luis Turcios         
+2023-09-19,Cuidado Personal ,Crema Dental   ,Pasta Crest         ,7,18,Guillermo Altamirano 
+2023-05-15,Carnes           ,Aves           ,Pechuga de Pollo    ,3,7,Josías Padilla       
+2023-09-17,Abarrotes        ,Margarinas     ,Margarina Mirasol   ,4,8,Katherine Vasquez    
+2023-12-06,Bebidas          ,Carbonatadas   ,Fanta               ,7,23,Douglas Flores       
+2023-05-24,Cuidado Personal ,Desodorantes   ,Desodorante Axe     ,4,16,José Monjarás        
+2023-10-01,Abarrotes        ,Aceites        ,Aceite Orisol       ,8,20,Nathaly Grande       
+2023-01-03,Cuidado Personal ,Crema Dental   ,Pasta Colgate       ,10,25,Oscar Mejia          
+2023-04-19,Bebidas          ,Carbonatadas   ,Coca Cola           ,3,11,Nathaly Grande       
+2023-11-12,Cuidado Personal ,Jabon de Baño  ,Jabon Rexona        ,3,10,Christian Gonzalez   
+2023-11-09,Carnes           ,Carne de Cerdo ,Lomo de Cerdo       ,9,32,Oscar Mejia          
+2023-02-04,Abarrotes        ,Azucares       ,Azucar Blanca       ,3,4,Guillermo Altamirano 
