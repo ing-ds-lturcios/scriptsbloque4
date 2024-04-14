@@ -37,6 +37,17 @@ bash
 
 Se reemplaza /ruta/completa/script/ con la ruta absoluta donde se encuentra el script generador_de_reporte.sh.
 
+## Salida
+
+- Como salida se obtendrá un archivo de nombre `reporte.txt` el cual estará ubicado en la misma carpeta donde se encuentre el script.
+- El contenido del archivo será el solicitado en el apartado de requisitos.
+- Cada vez que el script se ejecute, el archivo `reporte.txt` será actualizado con los nuevos resultados obtenidos.
+
 ### Análisis del Contenido
 
 El contenido generado incluye informes detallados que proporcionan percepciones valiosas sobre el rendimiento del eCommerce, permitiendo tomar decisiones informadas para mejorar las ventas y la experiencia del cliente.
+
+## INTEGRANTES DEL GRUPO
+#### - DSNP158023 FLORES RIVAS, DOUGLAS OMAR
+#### - DNSP117823 JOYA VASQUEZ, ERICK ALFREDO
+#### - DSNP021823 TURCIOS ALVAREZ, LUIS ANTONIO
